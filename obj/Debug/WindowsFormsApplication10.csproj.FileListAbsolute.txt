@@ -1,0 +1,30 @@
+c:\users\ruchi singh\documents\visual studio 2015\Projects\WindowsFormsApplication10\WindowsFormsApplication10\bin\Debug\WindowsFormsApplication10.exe.config
+c:\users\ruchi singh\documents\visual studio 2015\Projects\WindowsFormsApplication10\WindowsFormsApplication10\bin\Debug\WindowsFormsApplication10.exe
+c:\users\ruchi singh\documents\visual studio 2015\Projects\WindowsFormsApplication10\WindowsFormsApplication10\bin\Debug\WindowsFormsApplication10.pdb
+c:\users\ruchi singh\documents\visual studio 2015\Projects\WindowsFormsApplication10\WindowsFormsApplication10\bin\Debug\Bunifu_UI_v1.52.dll
+c:\users\ruchi singh\documents\visual studio 2015\Projects\WindowsFormsApplication10\WindowsFormsApplication10\obj\Debug\WindowsFormsApplication10.csprojResolveAssemblyReference.cache
+c:\users\ruchi singh\documents\visual studio 2015\Projects\WindowsFormsApplication10\WindowsFormsApplication10\obj\Debug\WindowsFormsApplication10.Properties.Resources.resources
+c:\users\ruchi singh\documents\visual studio 2015\Projects\WindowsFormsApplication10\WindowsFormsApplication10\obj\Debug\WindowsFormsApplication10.csproj.GenerateResource.Cache
+c:\users\ruchi singh\documents\visual studio 2015\Projects\WindowsFormsApplication10\WindowsFormsApplication10\obj\Debug\WindowsFormsApplication10.exe
+c:\users\ruchi singh\documents\visual studio 2015\Projects\WindowsFormsApplication10\WindowsFormsApplication10\obj\Debug\WindowsFormsApplication10.pdb
+C:\Users\Ruchi Singh\documents\visual studio 2015\Projects\WindowsFormsApplication10\WindowsFormsApplication10\obj\Debug\WindowsFormsApplication10.Login.resources
+C:\Users\Ruchi Singh\documents\visual studio 2015\Projects\WindowsFormsApplication10\WindowsFormsApplication10\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\Ruchi Singh\documents\visual studio 2015\Projects\WindowsFormsApplication10\WindowsFormsApplication10\bin\Debug\Guna.UI.dll
+C:\Users\Ruchi Singh\documents\visual studio 2015\Projects\WindowsFormsApplication10\WindowsFormsApplication10\obj\Debug\WindowsFormsApplication10.FormSupplierRegistration.resources
+C:\Users\Ruchi Singh\documents\visual studio 2015\Projects\WindowsFormsApplication10\WindowsFormsApplication10\obj\Debug\WindowsFormsApplication10.MainMenu.resources
+C:\Users\Ruchi Singh\documents\visual studio 2015\Projects\WindowsFormsApplication10\WindowsFormsApplication10\obj\Debug\WindowsFormsApplication10.FormTrading.resources
+C:\Users\Ruchi Singh\Desktop\Projrct fishery\WindowsFormsApplication10\WindowsFormsApplication10\bin\Debug\WindowsFormsApplication10.exe.config
+C:\Users\Ruchi Singh\Desktop\Projrct fishery\WindowsFormsApplication10\WindowsFormsApplication10\obj\Debug\WindowsFormsApplication10.exe
+C:\Users\Ruchi Singh\Desktop\Projrct fishery\WindowsFormsApplication10\WindowsFormsApplication10\obj\Debug\WindowsFormsApplication10.pdb
+C:\Users\Ruchi Singh\Desktop\Projrct fishery\WindowsFormsApplication10\WindowsFormsApplication10\bin\Debug\WindowsFormsApplication10.exe
+C:\Users\Ruchi Singh\Desktop\Projrct fishery\WindowsFormsApplication10\WindowsFormsApplication10\bin\Debug\WindowsFormsApplication10.pdb
+C:\Users\Ruchi Singh\Desktop\Projrct fishery\WindowsFormsApplication10\WindowsFormsApplication10\bin\Debug\Bunifu_UI_v1.52.dll
+C:\Users\Ruchi Singh\Desktop\Projrct fishery\WindowsFormsApplication10\WindowsFormsApplication10\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\Ruchi Singh\Desktop\Projrct fishery\WindowsFormsApplication10\WindowsFormsApplication10\bin\Debug\Guna.UI.dll
+C:\Users\Ruchi Singh\Desktop\Projrct fishery\WindowsFormsApplication10\WindowsFormsApplication10\obj\Debug\WindowsFormsApplication10.csprojResolveAssemblyReference.cache
+C:\Users\Ruchi Singh\Desktop\Projrct fishery\WindowsFormsApplication10\WindowsFormsApplication10\obj\Debug\WindowsFormsApplication10.FormSupplierRegistration.resources
+C:\Users\Ruchi Singh\Desktop\Projrct fishery\WindowsFormsApplication10\WindowsFormsApplication10\obj\Debug\WindowsFormsApplication10.FormTrading.resources
+C:\Users\Ruchi Singh\Desktop\Projrct fishery\WindowsFormsApplication10\WindowsFormsApplication10\obj\Debug\WindowsFormsApplication10.Login.resources
+C:\Users\Ruchi Singh\Desktop\Projrct fishery\WindowsFormsApplication10\WindowsFormsApplication10\obj\Debug\WindowsFormsApplication10.MainMenu.resources
+C:\Users\Ruchi Singh\Desktop\Projrct fishery\WindowsFormsApplication10\WindowsFormsApplication10\obj\Debug\WindowsFormsApplication10.Properties.Resources.resources
+C:\Users\Ruchi Singh\Desktop\Projrct fishery\WindowsFormsApplication10\WindowsFormsApplication10\obj\Debug\WindowsFormsApplication10.csproj.GenerateResource.Cache
